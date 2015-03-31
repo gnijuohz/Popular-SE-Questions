@@ -13,3 +13,4 @@ The files are generated via the sept, 2014 stackexchange dump, therefore the vot
 ## Tags included
 
 - git on stackoverflow
+- algorithm on stackoverflow
